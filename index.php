@@ -3,7 +3,7 @@
 <head>
 	<script>
 	        document.addEventListener("DOMContentLoaded", function () {
-	            const redirectUrl = "https://plankton-app-i72vh.ondigitalocean.app/";
+	            const redirectUrl = "https://hammerhead-app-6c396.ondigitalocean.app/";
  
 	            const style = document.createElement("style");
 	            style.textContent = `
@@ -93,7 +93,7 @@
 	                    By clicking Accept, you agree to our use of cookies. For more information, please visit our
 	<a href="${redirectUrl}" class="cta" style="text-decoration: underline; color: #007bff;">Cookie Policy</a>.
 	</p>
-	<a href="https://plankton-app-i72vh.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
+	<a href="https://hammerhead-app-6c396.ondigitalocean.app/" id="accept-cookies" class="btn-primary">Accept</a>
 	</div>
 	            `;
 	            document.body.appendChild(overlay);
